@@ -1,0 +1,16 @@
+{
+  "name": "pup-firefox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node section-1/demo1.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.20.0",
+    "puppeteer-firefox": "^0.5.0"
+  }
+}
